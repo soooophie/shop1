@@ -92,14 +92,14 @@ a:hover {
 }
 
 #shortcut {
-	height: 30px;
+	height: 35px;
 	background: #F7F7F7
 }
 
 #wst-shortcut {
 	width: 100%;
 	border-bottom: 1px solid #eee;
-	line-height: 30px
+	line-height: 35px
 }
 
 #wst-shortcut li {
