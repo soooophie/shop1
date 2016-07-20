@@ -1,0 +1,3 @@
+<?php
+//000000086400a:2:{i:0;a:10:{s:8:"shopName";s:7:"test001";s:8:"totalnum";s:1:"0";s:6:"shopId";s:2:"34";s:7:"goodsId";s:3:"255";s:9:"goodsName";s:4:"tt00";s:8:"goodsImg";s:38:"Upload/goods/2016-07/577cbeb37ddf8.png";s:10:"goodsThums";s:44:"Upload/goods/2016-07/577cbeb37ddf8_thumb.png";s:9:"shopPrice";s:4:"0.20";s:11:"marketPrice";s:4:"0.10";s:7:"goodsSn";s:4:"A001";}i:1;a:10:{s:8:"shopName";s:7:"test001";s:8:"totalnum";s:1:"0";s:6:"shopId";s:2:"34";s:7:"goodsId";s:3:"256";s:9:"goodsName";s:6:"测试";s:8:"goodsImg";s:38:"Upload/goods/2016-07/577cc0a7baebd.png";s:10:"goodsThums";s:44:"Upload/goods/2016-07/577cc0a7baebd_thumb.png";s:9:"shopPrice";s:6:"111.00";s:11:"marketPrice";s:6:"111.00";s:7:"goodsSn";s:6:"测试";}}
+?>
